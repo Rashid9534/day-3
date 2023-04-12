@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+
+    .loginBtn{
+        background-color: green;
+        color: orange;
+
+    }
+    
+.loginForm{
+    width:30%;
+    margin: auto;
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+.loginHeading{
+text-align: center;
+    color:blue;
+
+}
+.inputClass{
+    border-radius: 10px;
+    width: 95%;
+}
